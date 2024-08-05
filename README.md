@@ -15,4 +15,11 @@
 <br><br>
 
 ## Programmers
-Test중
+- 모두 출력
+![image](https://github.com/user-attachments/assets/6ece5275-bea8-4eb9-9ea5-5e15f8a898cf)
+
+<br><br>
+
+- 특정 번호만 출력
+![image](https://github.com/user-attachments/assets/7a753dd1-a2dc-44cb-b333-6e89a6b241de)
+
